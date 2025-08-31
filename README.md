@@ -1,4 +1,6 @@
 # WEB-DEV
+📌 Repository Description
+
 This repository contains my Web Development projects, built while learning and practicing frontend and full-stack development. It includes projects made with HTML, CSS, JavaScript, and modern frameworks/libraries, showcasing different concepts of responsive design, interactivity, and web application development.
 
 🔹 Languages & Tools: HTML, CSS, JavaScript (plus frameworks as I learn)
